@@ -4,3 +4,4 @@ i am 21 years old
 i am passing hsc in 2024
 i am a android developer
 i am start bba in 2025
+fix my bug
